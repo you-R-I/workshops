@@ -34,13 +34,13 @@ This exercise intends to familiarize you with NodeRed, the IBM Cloud and the Wat
 
 ### Ex2) Visual Recognition Application
 
-#### Ex2.1) [Visual Recognition with NodeRed](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-2_Train-Watson-Visual-Recognition_V2.pptx "Visual Recognition with NodeRed")
+#### [Ex2.1) Visual Recognition with NodeRed](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-2_Train-Watson-Visual-Recognition_V2.pptx "Visual Recognition with NodeRed")
 In this part of the exercise you will build your first flow in NodeRed. You will use the camera of the RaspberryPi to take a picture and the Visual Recognition service to analyze. 
 
-#### Ex2.2) [Visual Recognition Training + Model Integration](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-2_Train-Watson-Visual-Recognition_V2.pptx "Visual Recognition Training + Model Integration")
+#### [Ex2.2) Visual Recognition Training + Model Integration](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-2_Train-Watson-Visual-Recognition_V2.pptx "Visual Recognition Training + Model Integration")
 In the previous part you learnt how to use the Visual Recognition and the **«Default Classifier»**. Now it is time to create your own machine learning model and to train a **«Custom Classifier»** with the Watson Studio. To integrate our model we have to do some adjustments in the flow we did in Ex2.1.
 
-### Ex3) [IoT Platform](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-3-IoT-Application-From%20Device-to-Cloud_v2.pptx "IoT Platform")
+### [Ex3) IoT Platform](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-3-IoT-Application-From%20Device-to-Cloud_v2.pptx "IoT Platform")
 
 
 
