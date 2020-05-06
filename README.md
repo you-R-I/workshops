@@ -1,6 +1,6 @@
-# workshops
+# Workshops
 
-<h2> 1) Watson Services </h2>
+### 1) Watson Services
 
 
 ```console
