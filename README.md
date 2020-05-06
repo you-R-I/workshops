@@ -5,24 +5,19 @@ This workshop tutorial give you a first hands on experience on how to connect an
 
 
 ### Prerequisites
-In order to do the workshop you need the following hardware components:
-* RaspberryPi (I am using a Model 3B)
-* RaspberryPi Camera
-* Computer to access the RaspberryPi remotely (or a monitor, keyboard and screen if you want to work directly on your RaspberyPi)
-* Various cables to connect the RaspberryPi
-
-
-For this workshop we will us the IBM Cloud:
-* Sign up for a [free IBM Cloud account](https://www.ibm.biz/hslu-cloud "IBM Cloud")
-
-
-Make sure you have installed and updated node.js, NodeRed and NPM on your RaspberryPi. 
-* Install Node-RED (version: v1.X.X)
-* Install Node.js (version: v8.X.X)
-* Install (NPM version: 6.X.X)
-* Enable Remote access with ssh, VNC-Viewer or other Remote Toos. (I use a mix of both)
-
-If you are not sure how to connect and update your RaspberryPi you find in Ex0 a description.
+In order to do the workshop you need the following 
+1. Hardware components:
+  * RaspberryPi (I am using a Model 3B)
+  * RaspberryPi Camera
+  * Computer to access the RaspberryPi remotely (or a monitor, keyboard and screen if you want to work directly on your RaspberyPi)
+  * Various cables to connect the RaspberryPi
+2. Software installations, updates, configurations
+  * Install Node-RED (version: v1.X.X)
+  * Install Node.js (version: v8.X.X)
+  * Install (NPM version: 6.X.X)
+  * Enable Remote access with ssh, VNC-Viewer or other Remote Toos. (I use a mix of both)
+3. IBM Cloud Registration
+  * Sign up for a [free IBM Cloud account](https://www.ibm.biz/hslu-cloud "IBM Cloud")
 
 
 ### [Ex0) Get Started with a RaspberryPi](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-0_Verbindung%20zum%20RapberryPi.pptx "Ex0")
