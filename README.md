@@ -1,7 +1,7 @@
-# Workshops
+# IoT, Cloud and AI Workshop
 
 ### Overview
-This workshop tutorials give you a first hands on experience on how to connect an «Internet of Thing» (IoT) device to the IBM Cloud. You will use NodeRed and the Watson Services available on the IBM Cloud to build a cognitive IoT-application. The workshop is divided in various exercises listed below.
+This workshop tutorial give you a first hands on experience on how to connect an «Internet of Thing» (IoT) device to the IBM Cloud. You will use NodeRed and the Watson Services available on the IBM Cloud to build a cognitive IoT-application. The workshop is divided in various exercises listed below.
 
 
 ### Prerequisites
@@ -11,8 +11,9 @@ In order to do the workshop you need the following hardware components:
 * Computer to access the RaspberryPi remotely (or a monitor, keyboard and screen if you want to work directly on your RaspberyPi)
 * Various cables to connect the RaspberryPi
 
+
 For this workshop we will us the IBM Cloud:
-* Sign up for a free IBM Cloud account.
+* Sign up for a [free IBM Cloud account] [1]
 
 Make sure you have installed and updated node.js, NodeRed and NPM on your RaspberryPi. 
 * Install Node-RED (version: v1.X.X)
@@ -40,3 +41,6 @@ In the previous part you learnt how to use the Visual Recognition and the **«De
 
 ### Ex3) IoT Application
 
+
+
+[1]: https://www.ibm.biz/hslu-cloud
