@@ -13,7 +13,7 @@ In order to do the workshop you need the following hardware components:
 
 
 For this workshop we will us the IBM Cloud:
-* Sign up for a [free IBM Cloud account] (https://www.ibm.biz/hslu-cloud, IBM Cloud)
+* Sign up for a [free IBM Cloud account] (https://www.ibm.biz/hslu-cloud "IBM Cloud")
 
 
 Make sure you have installed and updated node.js, NodeRed and NPM on your RaspberryPi. 
