@@ -13,7 +13,8 @@ In order to do the workshop you need the following hardware components:
 
 
 For this workshop we will us the IBM Cloud:
-* Sign up for a [free IBM Cloud account] [1]
+* Sign up for a [free IBM Cloud account] (https://www.ibm.biz/hslu-cloud, IBM Cloud)
+
 
 Make sure you have installed and updated node.js, NodeRed and NPM on your RaspberryPi. 
 * Install Node-RED (version: v1.X.X)
@@ -43,4 +44,4 @@ In the previous part you learnt how to use the Visual Recognition and the **«De
 
 
 
-[1]: https://www.ibm.biz/hslu-cloud
+
