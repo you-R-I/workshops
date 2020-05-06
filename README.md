@@ -13,7 +13,7 @@ In order to do the workshop you need the following hardware components:
 
 
 For this workshop we will us the IBM Cloud:
-* Sign up for a [free IBM Cloud account] (https://www.ibm.biz/hslu-cloud "IBM Cloud")
+* Sign up for a [free IBM Cloud account](https://www.ibm.biz/hslu-cloud "IBM Cloud")
 
 
 Make sure you have installed and updated node.js, NodeRed and NPM on your RaspberryPi. 
@@ -25,7 +25,7 @@ Make sure you have installed and updated node.js, NodeRed and NPM on your Raspbe
 If you are not sure how to connect and update your RaspberryPi you find in Ex0 a description.
 
 
-### Ex0) Get Started with a RaspberryPi
+### [Ex0) Get Started with a RaspberryPi](https://github.com/you-R-I/workshops/blob/master/Exercises/Ex-RPi-0_Verbindung%20zum%20RapberryPi.pptx "Ex0")
 See how to connect and update your RaspberryPi. You can skip this exercise if know how to this. 
 
 
