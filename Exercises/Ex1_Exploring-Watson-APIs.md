@@ -1,1 +1,1 @@
-## Ex1_Exploring-Watson-APIs
+## Ex1) Exploring Watson APIs
