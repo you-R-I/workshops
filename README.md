@@ -5,11 +5,11 @@ This workshop tutorial give you a first hands on experience on how to connect an
 
 
 ### Prerequisites
-In order to do the workshop you need the following 
+In order to do the workshop you need fullfill the following prerequisites.
 1. Hardware components:
-  * RaspberryPi (I am using a Model 3B)
-  * RaspberryPi Camera
-  * Computer to access the RaspberryPi remotely (or a monitor, keyboard and screen if you want to work directly on your RaspberyPi)
+   * RaspberryPi (I am using a Model 3B)
+   * RaspberryPi Camera
+   * Computer to access the RaspberryPi remotely (or a monitor, keyboard and screen if you want to work directly on your RaspberyPi)
   * Various cables to connect the RaspberryPi
 2. Software installations, updates, configurations
   * Install Node-RED (version: v1.X.X)
