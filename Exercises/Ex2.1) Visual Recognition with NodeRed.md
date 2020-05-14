@@ -17,13 +17,16 @@ In the picture below you find
 
 ### Part I: Create your NodeRed Flow
 
-1. Open the terminal on your computer and connect to your RPi with the following SSH command:$ sudo ssh pi@<IP-Adress of the RPi>
-2. In the Rpi-Terminal start Node-Red with the following command:
-  $ node-red
-3. Open Internetbrowser on your personal computer and open Node-Red:
-http://<IP-Adresse des RPi>:1880/ 
-4. Delete the existing flows
-  Create a new flow by clicking on «+» and Name it «Ex1» Delete old flow by double click on the tab and press delete Click «Deploy» 
-Install the additional Nodes (maybe they are already installed) «Manage Palatte» «Install» Search and install the following 3 nodes:	«node-red-dashboard»	«node-red-node-base64»	«node-red-contrib-camerapi»	«node-red-node-watson»
-Restart NodeRed in the Rpi-Terminal «ctrl + C» node-red
-Open again Node-Red on your Borwser: http://<IP-Adresse des RPi>:1880/ 
+1. Connect to your RaspberryPi (either with ssh or working locally)
+--> $ node-red
+2. Open the editor your browser (either on your remote computer or on the RaspberryPi): http://<IP-Adresse des RPi>:1880/ 
+3. Create a new Flow
+	- Create a new flow by clicking on «+» and Name it «Ex1»
+	- Delete old flow (if no used anymore) by double click on the tab and press delete Click «Deploy» 
+4. Install the additional Nodes (if not already installed)
+	- Go to --> «Menu Symbol» --> «Manage Palatte» --> «Install»
+	- Search and install/update the following 4 nodes:
+		«node-red-dashboard» «node-red-node-base64»«node-red-contrib-camerapi»«node-red-node-watson»
+5. Restart NodeRed 
+6. Open again the NodeRed editor in your Borwser: http://<IP-Adresse des RPi>:1880/ 
+
