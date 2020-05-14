@@ -20,7 +20,7 @@ In the picture below you find
 1. Connect to your RaspberryPi (either with ssh or working locally) and start NodeRed 
 ``` $ node-red```
 
-2. Open the editor your browser (either on your remote computer or on the RaspberryPi): "http://<IP-Addresse of the RPi>:1880/" 
+2. Open the editor your browser (either on your remote computer or on the RaspberryPi): http://{IP-Addresse of the RPi}:1880/
 3. Create a new Flow
 	- Create a new flow by clicking on «+» and Name it «Ex1»
 	- Delete old flow (if no used anymore) by double click on the tab and press delete Click «Deploy» 
@@ -29,5 +29,5 @@ In the picture below you find
 	- Search and install/update the following 4 nodes:
 		**«node-red-dashboard»  «node-red-node-base64»  «node-red-contrib-camerapi»  «node-red-node-watson»**
 5. Restart NodeRed 
-6. Open again the NodeRed editor in your Borwser: **http://<IP-Adresse des RPi>:1880/**
+6. Open again the NodeRed editor in your Borwser: **http://{IP-Addresse of the RPi}:1880/**
 
