@@ -17,9 +17,8 @@ In the picture below you find
 
 ### Part I: Create your NodeRed Flow
 
-1. Connect to your RaspberryPi (either with ssh or working locally) and start NodeRed 
-``` $ node-red```
-
+1. Connect to your RaspberryPi (either with ssh or working locally) and start NodeRed  
+``` $ node-red```  
 2. Open the editor your browser (either on your remote computer or on the RaspberryPi): http://{IP-Addresse of the RPi}:1880/
 3. Create a new Flow
 	- Create a new flow by clicking on «+» and Name it «Ex1»
