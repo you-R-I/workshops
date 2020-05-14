@@ -51,6 +51,8 @@ You will need the following nodes from the inidicated categories:
 «template (Function)
 «template (Dashboard)
 «debug» (Common)
+2. Configure the nodes as indicated:
+
 
 
 
