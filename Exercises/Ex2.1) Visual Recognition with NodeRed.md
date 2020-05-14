@@ -27,7 +27,11 @@ In the picture below you find
 4. Install the additional Nodes (if not already installed)
 	- Go to --> **«Menu Symbol» --> «Manage Palatte» --> «Install»**
 	- Search and install/update the following 4 nodes:
-		**«node-red-dashboard»  «node-red-node-base64»  «node-red-contrib-camerapi»  «node-red-node-watson»**
+		**«node-red-dashboard»  «node-red-node-base64»  «node-red-contrib-camerapi»  «node-red-node-watson»**   
+		here comes a picture
 5. Restart NodeRed 
 6. Open again the NodeRed editor in your Borwser: **http://{IP-Addresse of the RPi}:1880/**
+7. Create by «Drag&Drop» (from the library on the left) the following flow and connect them. You will need the following nodes:  
+«button» (Dashboard)  «camerapi takephoto» (Raspberry Pi) «base64» (function)  «file» (Storage) «template (Dashboard)   «comment» (Common)
+
 
